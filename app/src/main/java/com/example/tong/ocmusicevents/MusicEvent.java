@@ -6,7 +6,7 @@ package com.example.tong.ocmusicevents;
  * stores the titles of each upcoming music event, while the other maintains the details
  * about the event.
  *
- * @author Michael Paulding
+ * @author Teven Ong
  * @version 1.0
  */
 public class MusicEvent {
